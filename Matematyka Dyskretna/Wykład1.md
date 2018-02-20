@@ -1,4 +1,4 @@
-# Zasady i prawa przeliczania //Wykład #1
+﻿# Zasady i prawa przeliczania //Wykład #1
 ## 1. Prawo dodawania
 
 Jeśli $A_1, A_2, \ldots, A_n$ są skończonymi zbiorani parami rozłącznymi (tj. $A_i \cap A_j = \emptyset$ dla $i,j=1,2,\ldots,n$ oraz $i \neq j$), to:
@@ -61,7 +61,7 @@ $$ n_i \leq M, \ \text{gdzie} \ \forall i \in \{ 1, \ldots, k \} $$
 
 $$ N = n_1 + \ldots + n_k \leq \underbrace{M + \ldots + M}_{k \ \text{razy} } = M \cdot k$$ 
 
-$$ N \leq M \cdot k \ \text{- sprzeczność}$$ 
+$$ N \leq M \cdot k \ \text{- sprzecznosc}$$ 
 
 ## 5. Zasada bijekcji
 
@@ -89,7 +89,7 @@ $$ \{ 1, 2, 3, 4, 5 \} \subset [n] \rightarrow \{ 1, 1, 1, 1, 1 \} $$
 
 $$ X \subset [n] $$
 
-$$ f(x) = (a_1, \ldots, a_n) \text{- ciąg binarny} $$
+$$ f(x) = (a_1, \ldots, a_n) \text{- ciag binarny} $$
 
 $$ \ $$
 
